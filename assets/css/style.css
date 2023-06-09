@@ -396,6 +396,7 @@ body.nav-active{overflow: hidden;}
 }
 
 .login-btn{
+  margin-block-bottom: 20px;
   color:var(--text-gunmetal);
   font-size: var(--fontSize-7);
   font-weight: var(--weight-medium);
